@@ -1,16 +1,3 @@
-```md
-<h1 align="center">Hi, I'm Rajat Lamsal 👋</h1>
-<h3 align="center">AI-First Engineer | Python Software Developer | QA Automation Engineer</h3>
-
-<p align="center">
-  <a href="mailto:rajatlamsal@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/rajatlamsal00977/">LinkedIn</a> •
-  <a href="https://github.com/rajatlamsal00977">GitHub</a> •
-  <a href="https://YOUR_PORTFOLIO_LINK.com">Portfolio</a>
-</p>
-
----
-
 ## 🚀 About Me
 
 I am an AI-first engineer and Python software developer with experience building AI-powered applications, automation frameworks, and reliable testing systems. My background combines Python development, API-based applications, Selenium automation, AI chatbot validation, and deployment-ready project development.
