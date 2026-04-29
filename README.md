@@ -1,13 +1,3 @@
-# secret.md — GitHub Profile Dashboard Upgrade
-
-Use this file as your private reference to improve your GitHub profile README/dashboard. Copy the sections you like into your GitHub profile repository README.md.
-
----
-
-## 1. GitHub Profile README Starter
-
-> Replace `YOUR_GITHUB_USERNAME` with your real GitHub username.
-
 ```md
 <h1 align="center">Hi, I'm Rajat Lamsal 👋</h1>
 <h3 align="center">AI-First Engineer | Python Software Developer | QA Automation Engineer</h3>
